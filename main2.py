@@ -1,0 +1,1 @@
+print("hello i am main2.py ")
